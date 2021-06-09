@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1a11b245ef66304fab186ab3ae6a298, type: 3}
+  m_Name: Starting_State
+  m_EditorClassIdentifier: 
+  nextState:
+  - {fileID: 11400000, guid: caab1a59c0d75b543b94afc73001abb2, type: 2}
+  Audio: {fileID: 8300000, guid: 29c45acbbc006e545a5faa704aa7b5df, type: 3}
+  StoryBox: "Welcome to my anime quiz \nchoose the right answer to move forward "
